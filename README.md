@@ -1,8 +1,6 @@
 # Natali
-<!doctype html>
 <html>
 <head>
-<title>Наталі Антонюк</title>
 <meta charset="utf-8">
 </head>
 <body>
