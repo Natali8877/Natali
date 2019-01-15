@@ -12,8 +12,7 @@
 </html>
 <html>
 <head>
-<meta charset="utf-8">
-  <title> таблиця</title>
+<meta charset="utf-8"
   <td> 1 </td>
   <td> 2 </td>
   </tr>
