@@ -6,7 +6,7 @@
 <body>
 <h1>Сайт Наталі!!!</h1>
   <h3>Найкращий викладач!!!</h3>
-  git remote add origin http://antoniuk8.pp.ua/administrator/index.php?option=com_content&view=articles /USER/demo.git
+  git remote add origin  http://antoniuk8.pp.ua/index.php /USER/demo.git
 git push -u origin master
    <a href ="http://antoniuk8.pp.ua/administrator/index.php?option=com_content&view=articles"> </a>
   <p> Вважаю, що захоплена чимось людина, практично завжди є цікавою особистістю. </p>
